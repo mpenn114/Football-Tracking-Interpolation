@@ -17,5 +17,3 @@ This repository contains the following files:
 
 **XXX.npy:** These store the errors from the predictions on the test data.
 
-
-Statsbomb 360 matches can be processed using the "Statsbomb_Processing.ipynb" notebook.
