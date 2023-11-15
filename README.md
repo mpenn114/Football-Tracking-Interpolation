@@ -1,2 +1,2 @@
 # Football-Tracking-Interpolation
-Processed Statsbomb 360 data containing estimates for off-camera players.
+Code to process Statsbomb 360 data to estimate the positions of off-camera players.
