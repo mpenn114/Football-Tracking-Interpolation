@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "b44b4ebe-b152-413b-8396-cbd987703214",
+    "index": 71,
+    "period": 1,
+    "timestamp": "00:00:58.464",
+    "minute": 66,
+    "second": 32,
+    "type": {
+      "id": 49,
+      "name": "Pass"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 939,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 9,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 910,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 2526,
+      "name": "Sam Johnson"
+    },
+    "position": {
+      "id": 14,
+      "name": "Center Midfield"
+    },
+    "location": [
+      21.71,
+      79.57
+    ],
+    "duration": 0.514,
+    "related_events": [
+      "eb5ed7eb-8299-4a40-a266-a395967aca22"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 9991,
+        "name": "David Taylor"
+      },
+      "length": 40.18,
+      "angle": -1.321,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        12.88,
+        42.18
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 16,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "0388fba9-e922-48e8-89ae-f3b7c91c5bb9",
+    "index": 80,
+    "period": 2,
+    "timestamp": "00:00:35.990",
+    "minute": 60,
+    "second": 15,
+    "type": {
+      "id": 17,
+      "name": "Dribble"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 934,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 5,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 970,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 3921,
+      "name": "Leo Wilson"
+    },
+    "position": {
+      "id": 13,
+      "name": "Attacking Midfield"
+    },
+    "location": [
+      44.9,
+      51.89
+    ],
+    "duration": 3.823,
+    "related_events": [
+      "003558a2-dfa8-47da-97c5-9ae6c0f1c278"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 6814,
+        "name": "Max Smith"
+      },
+      "length": 47.379,
+      "angle": -1.628,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        13.09,
+        61.7
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 22,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "e2697799-9094-43bd-9487-f325110fb7a5",
+    "index": 78,
+    "period": 2,
+    "timestamp": "00:00:43.774",
+    "minute": 31,
+    "second": 42,
+    "type": {
+      "id": 2,
+      "name": "Shot"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 955,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 4,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 923,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 7032,
+      "name": "Leo Johnson"
+    },
+    "position": {
+      "id": 7,
+      "name": "Center Back"
+    },
+    "location": [
+      57.42,
+      98.87
+    ],
+    "duration": 1.953,
+    "related_events": [
+      "94627384-fc0a-4dd4-8614-2cf61fd5263e"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 7446,
+        "name": "Mike Williams"
+      },
+      "length": 16.017,
+      "angle": -0.863,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        2.41,
+        48.94
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 37,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "32afe7e6-2869-4f76-a8a4-8a9a4f2d385f",
+    "index": 70,
+    "period": 2,
+    "timestamp": "00:00:58.450",
+    "minute": 89,
+    "second": 4,
+    "type": {
+      "id": 98,
+      "name": "Shot"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 904,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 10,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 962,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 3345,
+      "name": "David Davis"
+    },
+    "position": {
+      "id": 4,
+      "name": "Center Forward"
+    },
+    "location": [
+      45.56,
+      85.69
+    ],
+    "duration": 3.98,
+    "related_events": [
+      "b0ab651d-82e7-49f8-b525-27c35ba0ba41"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 8193,
+        "name": "Alex Williams"
+      },
+      "length": 36.414,
+      "angle": -1.146,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        22.11,
+        48.09
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 35,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "80334d2d-6b3f-4fe8-a972-d91cfeb90a83",
+    "index": 1,
+    "period": 1,
+    "timestamp": "00:00:00.437",
+    "minute": 65,
+    "second": 6,
+    "type": {
+      "id": 22,
+      "name": "Dribble"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 901,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 15,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 979,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 8210,
+      "name": "Mike Taylor"
+    },
+    "position": {
+      "id": 10,
+      "name": "Attacking Midfield"
+    },
+    "location": [
+      45.38,
+      95.28
+    ],
+    "duration": 2.621,
+    "related_events": [
+      "927ded63-6c61-4704-96de-8f791722f945"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 3496,
+        "name": "Tom Miller"
+      },
+      "length": 26.917,
+      "angle": 0.716,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        69.45,
+        28.75
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 2,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "4bbaf60f-a1d1-434f-9756-9adccdf91698",
+    "index": 9,
+    "period": 2,
+    "timestamp": "00:00:15.317",
+    "minute": 37,
+    "second": 54,
+    "type": {
+      "id": 34,
+      "name": "Challenge"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 946,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 13,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 910,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 5270,
+      "name": "Sam Taylor"
+    },
+    "position": {
+      "id": 4,
+      "name": "Defensive Midfield"
+    },
+    "location": [
+      37.91,
+      3.59
+    ],
+    "duration": 2.148,
+    "related_events": [
+      "e9d6a183-d493-475e-958f-eb9af478f33f"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 7499,
+        "name": "Alex Anderson"
+      },
+      "length": 11.072,
+      "angle": -0.726,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        75.8,
+        13.54
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 21,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "092dc394-ab6f-4597-b5c7-5b5d8e342a3f",
+    "index": 22,
+    "period": 2,
+    "timestamp": "00:00:02.597",
+    "minute": 71,
+    "second": 59,
+    "type": {
+      "id": 17,
+      "name": "Shot"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 937,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 20,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 919,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 3879,
+      "name": "Max Miller"
+    },
+    "position": {
+      "id": 30,
+      "name": "Defensive Midfield"
+    },
+    "location": [
+      24.22,
+      53.24
+    ],
+    "duration": 2.926,
+    "related_events": [
+      "31026519-0201-4492-a39a-2c0ae518ae8a"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 1764,
+        "name": "Nick Wilson"
+      },
+      "length": 30.525,
+      "angle": -2.573,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        12.45,
+        20.78
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 42,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "c4e2fa05-a7aa-46c8-bfdb-e2ee16823cb0",
+    "index": 24,
+    "period": 1,
+    "timestamp": "00:00:27.184",
+    "minute": 48,
+    "second": 54,
+    "type": {
+      "id": 86,
+      "name": "Challenge"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 968,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 19,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 958,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 4928,
+      "name": "Max Anderson"
+    },
+    "position": {
+      "id": 26,
+      "name": "Center Back"
+    },
+    "location": [
+      16.28,
+      8.6
+    ],
+    "duration": 3.918,
+    "related_events": [
+      "81f7df7b-4428-45b1-8ee6-922d7d38c378"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 4967,
+        "name": "Mike Williams"
+      },
+      "length": 6.048,
+      "angle": -1.209,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        64.36,
+        76.08
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 72,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "3fc52565-9f2f-443e-b165-aa132f2c5363",
+    "index": 62,
+    "period": 1,
+    "timestamp": "00:00:25.864",
+    "minute": 73,
+    "second": 14,
+    "type": {
+      "id": 94,
+      "name": "Pass"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 974,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 19,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 909,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 9389,
+      "name": "Mike Smith"
+    },
+    "position": {
+      "id": 26,
+      "name": "Left Back"
+    },
+    "location": [
+      63.9,
+      32.4
+    ],
+    "duration": 4.193,
+    "related_events": [
+      "ea7888d8-d75b-454c-8297-3815c2f49d7b"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 3939,
+        "name": "Tom Smith"
+      },
+      "length": 20.39,
+      "angle": 1.333,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        67.6,
+        76.2
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 5,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "59d9ee8d-79c5-455b-ad16-3ca126d17899",
+    "index": 21,
+    "period": 1,
+    "timestamp": "00:00:00.534",
+    "minute": 57,
+    "second": 54,
+    "type": {
+      "id": 5,
+      "name": "Dribble"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 960,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 13,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 929,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 1493,
+      "name": "David Jones"
+    },
+    "position": {
+      "id": 10,
+      "name": "Left Wing"
+    },
+    "location": [
+      22.9,
+      80.3
+    ],
+    "duration": 3.531,
+    "related_events": [
+      "e187085e-ad32-4c48-9bff-219360c041e7"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 8182,
+        "name": "Mike Brown"
+      },
+      "length": 46.583,
+      "angle": -0.359,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        38.08,
+        53.71
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 41,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "48eb3c91-a8f9-4363-8c22-e42a92b5a573",
+    "index": 7,
+    "period": 2,
+    "timestamp": "00:00:52.249",
+    "minute": 29,
+    "second": 22,
+    "type": {
+      "id": 91,
+      "name": "Challenge"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 933,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 20,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 989,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 4762,
+      "name": "David Brown"
+    },
+    "position": {
+      "id": 7,
+      "name": "Goalkeeper"
+    },
+    "location": [
+      32.15,
+      87.88
+    ],
+    "duration": 3.252,
+    "related_events": [
+      "5475c2b6-a84a-4a98-9759-782a39e26157"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 5235,
+        "name": "Leo Miller"
+      },
+      "length": 37.745,
+      "angle": -3.01,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        8.1,
+        72.26
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 70,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "398183a8-64af-49f3-bfd5-14b0d7144ad0",
+    "index": 100,
+    "period": 2,
+    "timestamp": "00:00:15.694",
+    "minute": 49,
+    "second": 8,
+    "type": {
+      "id": 77,
+      "name": "Challenge"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 961,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 19,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 916,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 2026,
+      "name": "Max Brown"
+    },
+    "position": {
+      "id": 11,
+      "name": "Goalkeeper"
+    },
+    "location": [
+      79.12,
+      21.78
+    ],
+    "duration": 3.469,
+    "related_events": [
+      "2496f468-6bde-4ce3-9369-571a4ba2fd28"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 5786,
+        "name": "Sam Taylor"
+      },
+      "length": 25.436,
+      "angle": -3.009,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        4.34,
+        6.49
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 100,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "f3918e9a-f599-48f5-bb97-2c5cda6234f5",
+    "index": 70,
+    "period": 2,
+    "timestamp": "00:00:11.426",
+    "minute": 47,
+    "second": 47,
+    "type": {
+      "id": 23,
+      "name": "Pass"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 988,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 8,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 920,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 5766,
+      "name": "David Anderson"
+    },
+    "position": {
+      "id": 11,
+      "name": "Center Back"
+    },
+    "location": [
+      34.93,
+      25.49
+    ],
+    "duration": 2.649,
+    "related_events": [
+      "0771fe47-7ddf-456b-b549-4e6e6703495a"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 8444,
+        "name": "Chris Davis"
+      },
+      "length": 23.27,
+      "angle": 2.603,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        94.6,
+        0.86
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 39,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "5f608c8f-ebbb-4b34-8a8b-9823c78b7b91",
+    "index": 92,
+    "period": 2,
+    "timestamp": "00:00:38.472",
+    "minute": 17,
+    "second": 30,
+    "type": {
+      "id": 5,
+      "name": "Challenge"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 926,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 4,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 939,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 1984,
+      "name": "Chris Taylor"
+    },
+    "position": {
+      "id": 15,
+      "name": "Center Forward"
+    },
+    "location": [
+      65.52,
+      5.28
+    ],
+    "duration": 3.296,
+    "related_events": [
+      "1326d5d2-29b8-42dc-a12a-b91cdb5a6c02"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 1708,
+        "name": "Mike Jones"
+      },
+      "length": 29.427,
+      "angle": -0.39,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        17.24,
+        66.71
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 22,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "2e514d81-a750-443d-ab24-eb90ea643842",
+    "index": 39,
+    "period": 2,
+    "timestamp": "00:00:39.993",
+    "minute": 36,
+    "second": 13,
+    "type": {
+      "id": 23,
+      "name": "Pass"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 953,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 18,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 936,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 2878,
+      "name": "Nick Jones"
+    },
+    "position": {
+      "id": 8,
+      "name": "Center Back"
+    },
+    "location": [
+      62.61,
+      62.25
+    ],
+    "duration": 0.619,
+    "related_events": [
+      "c1f9428e-373a-4fa9-9c30-5976190a5f3d"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 4385,
+        "name": "Leo Johnson"
+      },
+      "length": 37.465,
+      "angle": -1.511,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        20.2,
+        16.61
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 57,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "4de1116e-7c27-4b77-bcf3-8e2305cda4f0",
+    "index": 29,
+    "period": 2,
+    "timestamp": "00:00:26.386",
+    "minute": 28,
+    "second": 10,
+    "type": {
+      "id": 54,
+      "name": "Challenge"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 963,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 2,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 988,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 1963,
+      "name": "Mike Johnson"
+    },
+    "position": {
+      "id": 23,
+      "name": "Center Back"
+    },
+    "location": [
+      46.88,
+      2.76
+    ],
+    "duration": 1.614,
+    "related_events": [
+      "1213be8b-18e9-490a-8eae-47de0066b5cf"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 4146,
+        "name": "John Johnson"
+      },
+      "length": 30.781,
+      "angle": 1.448,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        60.13,
+        14.55
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 84,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "7772f83f-6682-4bb5-a97b-b80ddf0f92b8",
+    "index": 39,
+    "period": 2,
+    "timestamp": "00:00:42.413",
+    "minute": 17,
+    "second": 36,
+    "type": {
+      "id": 6,
+      "name": "Challenge"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 927,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 5,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 996,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 9043,
+      "name": "Tom Brown"
+    },
+    "position": {
+      "id": 25,
+      "name": "Left Back"
+    },
+    "location": [
+      1.46,
+      37.4
+    ],
+    "duration": 3.983,
+    "related_events": [
+      "77386b1e-8aa5-4c58-9d0e-0b0f4b692cb2"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 6771,
+        "name": "Alex Taylor"
+      },
+      "length": 6.696,
+      "angle": 1.821,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        9.52,
+        77.04
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 50,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "a02d15e3-730f-4914-8401-104726e5eafe",
+    "index": 43,
+    "period": 2,
+    "timestamp": "00:00:18.587",
+    "minute": 66,
+    "second": 10,
+    "type": {
+      "id": 92,
+      "name": "Shot"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 954,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 6,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 914,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 8679,
+      "name": "David Brown"
+    },
+    "position": {
+      "id": 29,
+      "name": "Center Midfield"
+    },
+    "location": [
+      20.72,
+      93.46
+    ],
+    "duration": 0.927,
+    "related_events": [
+      "5ab5eabd-57bf-418e-b0e0-6a2fe7aafd87"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 2571,
+        "name": "Tom Davis"
+      },
+      "length": 19.624,
+      "angle": -2.469,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        68.45,
+        16.98
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 53,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "7e539802-ca3c-466c-883f-98b8e849feed",
+    "index": 38,
+    "period": 1,
+    "timestamp": "00:00:42.320",
+    "minute": 29,
+    "second": 52,
+    "type": {
+      "id": 32,
+      "name": "Shot"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 963,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 14,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 906,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 6129,
+      "name": "Leo Miller"
+    },
+    "position": {
+      "id": 19,
+      "name": "Right Back"
+    },
+    "location": [
+      32.1,
+      62.25
+    ],
+    "duration": 3.782,
+    "related_events": [
+      "b2dd594e-b8bb-4332-9017-3c431ab16786"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 3637,
+        "name": "Mike Jones"
+      },
+      "length": 40.823,
+      "angle": -2.247,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        63.39,
+        46.93
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 17,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "62df43ee-35ce-42e1-9e4f-736b9c24c1e6",
+    "index": 46,
+    "period": 2,
+    "timestamp": "00:00:39.649",
+    "minute": 70,
+    "second": 17,
+    "type": {
+      "id": 22,
+      "name": "Pass"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 909,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 14,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 912,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 7378,
+      "name": "Mike Jones"
+    },
+    "position": {
+      "id": 3,
+      "name": "Left Back"
+    },
+    "location": [
+      71.04,
+      99.84
+    ],
+    "duration": 3.798,
+    "related_events": [
+      "62e75757-cfaa-428a-ab47-a00f8ad26c69"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 2515,
+        "name": "Tom Williams"
+      },
+      "length": 24.769,
+      "angle": 0.547,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        87.5,
+        58.2
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 98,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "d7046ea4-8920-49d4-a6a7-3690fd5c5e8f",
+    "index": 1,
+    "period": 1,
+    "timestamp": "00:00:12.692",
+    "minute": 37,
+    "second": 27,
+    "type": {
+      "id": 76,
+      "name": "Challenge"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 937,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 20,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 918,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 3493,
+      "name": "Nick Anderson"
+    },
+    "position": {
+      "id": 12,
+      "name": "Left Wing"
+    },
+    "location": [
+      39.06,
+      56.22
+    ],
+    "duration": 3.587,
+    "related_events": [
+      "29cc5512-7500-45c0-9904-9ecd3d4758e4"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 1189,
+        "name": "Leo Davis"
+      },
+      "length": 12.448,
+      "angle": -1.189,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        69.79,
+        6.46
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 45,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "312725c5-8c25-4eac-9b76-a09355bb590a",
+    "index": 72,
+    "period": 2,
+    "timestamp": "00:00:54.492",
+    "minute": 58,
+    "second": 17,
+    "type": {
+      "id": 8,
+      "name": "Shot"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 939,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 20,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 918,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 7998,
+      "name": "Leo Williams"
+    },
+    "position": {
+      "id": 12,
+      "name": "Right Back"
+    },
+    "location": [
+      28.17,
+      4.51
+    ],
+    "duration": 1.993,
+    "related_events": [
+      "cfca1d9c-e356-4bdc-a75c-8da0e3bb5654"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 2932,
+        "name": "John Wilson"
+      },
+      "length": 7.402,
+      "angle": 0.475,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        59.25,
+        61.35
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 39,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "44488b72-725e-4955-996a-6c2f9d14b4ef",
+    "index": 8,
+    "period": 2,
+    "timestamp": "00:00:01.329",
+    "minute": 61,
+    "second": 1,
+    "type": {
+      "id": 74,
+      "name": "Shot"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 922,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 3,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 985,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 4247,
+      "name": "Chris Brown"
+    },
+    "position": {
+      "id": 21,
+      "name": "Center Back"
+    },
+    "location": [
+      2.28,
+      71.6
+    ],
+    "duration": 4.509,
+    "related_events": [
+      "535db443-454a-4265-bf83-5265fd2c8708"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 7178,
+        "name": "Mike Miller"
+      },
+      "length": 32.391,
+      "angle": -1.295,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        99.27,
+        88.77
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 21,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "f6eae160-e0d8-4ca9-8e27-947ee0a16891",
+    "index": 76,
+    "period": 2,
+    "timestamp": "00:00:28.916",
+    "minute": 61,
+    "second": 23,
+    "type": {
+      "id": 75,
+      "name": "Shot"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 918,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 6,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 964,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 3925,
+      "name": "Nick Miller"
+    },
+    "position": {
+      "id": 28,
+      "name": "Center Midfield"
+    },
+    "location": [
+      63.84,
+      63.7
+    ],
+    "duration": 4.506,
+    "related_events": [
+      "a217f7c1-7975-489f-9bf6-0d141d7955dd"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 4038,
+        "name": "Nick Brown"
+      },
+      "length": 39.678,
+      "angle": 1.264,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        79.22,
+        78.84
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 37,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "16137e6c-ab98-435a-8b07-344d58aa25b2",
+    "index": 78,
+    "period": 2,
+    "timestamp": "00:00:29.397",
+    "minute": 86,
+    "second": 4,
+    "type": {
+      "id": 48,
+      "name": "Dribble"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 955,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 8,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 943,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 9281,
+      "name": "Chris Williams"
+    },
+    "position": {
+      "id": 11,
+      "name": "Right Back"
+    },
+    "location": [
+      36.25,
+      75.72
+    ],
+    "duration": 2.523,
+    "related_events": [
+      "cc8e6470-06e0-48ff-9290-f8fc8a813160"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 9302,
+        "name": "Chris Miller"
+      },
+      "length": 16.286,
+      "angle": 0.341,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        57.72,
+        96.77
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 26,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "2d0057e4-2dce-4854-b099-48db9bd23b5f",
+    "index": 42,
+    "period": 2,
+    "timestamp": "00:00:57.166",
+    "minute": 14,
+    "second": 15,
+    "type": {
+      "id": 44,
+      "name": "Dribble"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 951,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 16,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 910,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 9183,
+      "name": "John Davis"
+    },
+    "position": {
+      "id": 26,
+      "name": "Right Wing"
+    },
+    "location": [
+      45.31,
+      29.72
+    ],
+    "duration": 4.721,
+    "related_events": [
+      "b25665ca-9c46-4d62-ac85-b55c2fddca51"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 6728,
+        "name": "Mike Johnson"
+      },
+      "length": 11.515,
+      "angle": 2.672,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        43.54,
+        9.83
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 7,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "996f9395-4fd2-40e0-8094-7d124fc16301",
+    "index": 52,
+    "period": 2,
+    "timestamp": "00:00:05.183",
+    "minute": 12,
+    "second": 16,
+    "type": {
+      "id": 5,
+      "name": "Challenge"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 962,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 14,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 946,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 7736,
+      "name": "Sam Davis"
+    },
+    "position": {
+      "id": 5,
+      "name": "Left Back"
+    },
+    "location": [
+      53.04,
+      13.04
+    ],
+    "duration": 1.068,
+    "related_events": [
+      "227b6198-641a-43ae-ab28-1f18428efaa8"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 3545,
+        "name": "John Williams"
+      },
+      "length": 21.53,
+      "angle": -2.078,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        69.09,
+        20.32
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 94,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "f48c997a-bce2-45fb-9edf-ab8f03c0bac0",
+    "index": 35,
+    "period": 2,
+    "timestamp": "00:00:37.486",
+    "minute": 31,
+    "second": 32,
+    "type": {
+      "id": 96,
+      "name": "Challenge"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 959,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 6,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 907,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 6363,
+      "name": "John Brown"
+    },
+    "position": {
+      "id": 8,
+      "name": "Right Back"
+    },
+    "location": [
+      9.65,
+      25.41
+    ],
+    "duration": 4.491,
+    "related_events": [
+      "2fb2bb3e-e8ce-4293-a75a-b449bc60297d"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 5500,
+        "name": "John Anderson"
+      },
+      "length": 32.544,
+      "angle": 2.219,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        36.78,
+        69.99
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 28,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "581c4812-74d6-4c96-aa6b-4c7e7517f8d4",
+    "index": 58,
+    "period": 2,
+    "timestamp": "00:00:25.115",
+    "minute": 50,
+    "second": 22,
+    "type": {
+      "id": 46,
+      "name": "Challenge"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 968,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 6,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 903,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 6087,
+      "name": "Tom Miller"
+    },
+    "position": {
+      "id": 11,
+      "name": "Left Back"
+    },
+    "location": [
+      16.07,
+      18.08
+    ],
+    "duration": 3.813,
+    "related_events": [
+      "dbae5f20-8b6f-40b8-9c5c-e5ce630eb035"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 9730,
+        "name": "Alex Jones"
+      },
+      "length": 18.775,
+      "angle": 0.501,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        85.58,
+        50.14
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 9,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "c2478617-bc2a-43fb-b511-ce02cd1fcaf4",
+    "index": 26,
+    "period": 2,
+    "timestamp": "00:00:19.829",
+    "minute": 59,
+    "second": 51,
+    "type": {
+      "id": 83,
+      "name": "Dribble"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 965,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 13,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 989,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 3967,
+      "name": "Nick Davis"
+    },
+    "position": {
+      "id": 24,
+      "name": "Defensive Midfield"
+    },
+    "location": [
+      68.0,
+      4.87
+    ],
+    "duration": 0.567,
+    "related_events": [
+      "b0649cc8-5d4d-4232-aa1f-a6e19d7be030"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 9847,
+        "name": "Max Jones"
+      },
+      "length": 8.305,
+      "angle": 2.893,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        32.41,
+        2.76
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 82,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "acf44d1d-44ab-47cc-9b7a-343920f7868d",
+    "index": 28,
+    "period": 2,
+    "timestamp": "00:00:33.228",
+    "minute": 64,
+    "second": 26,
+    "type": {
+      "id": 8,
+      "name": "Dribble"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 913,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 17,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 909,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 7501,
+      "name": "Alex Smith"
+    },
+    "position": {
+      "id": 12,
+      "name": "Right Wing"
+    },
+    "location": [
+      42.48,
+      0.63
+    ],
+    "duration": 4.714,
+    "related_events": [
+      "efa7ee96-bee3-478f-8310-0139f2fc9b3d"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 2110,
+        "name": "Chris Smith"
+      },
+      "length": 42.552,
+      "angle": 1.338,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        86.07,
+        38.68
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 13,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "7e9052ce-d8ca-446d-b6c8-7d5e9e5a6685",
+    "index": 89,
+    "period": 1,
+    "timestamp": "00:00:52.938",
+    "minute": 88,
+    "second": 10,
+    "type": {
+      "id": 56,
+      "name": "Dribble"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 907,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 9,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 959,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 6752,
+      "name": "John Johnson"
+    },
+    "position": {
+      "id": 26,
+      "name": "Center Midfield"
+    },
+    "location": [
+      26.55,
+      2.63
+    ],
+    "duration": 0.735,
+    "related_events": [
+      "31240e89-c82d-40d2-815c-eeb2218ba5ec"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 7871,
+        "name": "Tom Jones"
+      },
+      "length": 49.933,
+      "angle": 2.362,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        2.12,
+        18.21
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 27,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "f16c2930-d798-40bf-8bbb-0f18c20721b1",
+    "index": 3,
+    "period": 2,
+    "timestamp": "00:00:33.767",
+    "minute": 69,
+    "second": 34,
+    "type": {
+      "id": 89,
+      "name": "Challenge"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 955,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 5,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 964,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 8990,
+      "name": "John Johnson"
+    },
+    "position": {
+      "id": 14,
+      "name": "Defensive Midfield"
+    },
+    "location": [
+      21.61,
+      51.43
+    ],
+    "duration": 2.552,
+    "related_events": [
+      "758383ae-6d45-45c9-82e3-aa35fbf7aec0"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 2515,
+        "name": "Max Wilson"
+      },
+      "length": 48.912,
+      "angle": 0.435,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        65.71,
+        25.52
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 10,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "5c7e4961-539c-407c-92bb-b57d594189d0",
+    "index": 78,
+    "period": 1,
+    "timestamp": "00:00:35.258",
+    "minute": 9,
+    "second": 11,
+    "type": {
+      "id": 48,
+      "name": "Shot"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 974,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 7,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 915,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 1874,
+      "name": "Leo Smith"
+    },
+    "position": {
+      "id": 8,
+      "name": "Center Midfield"
+    },
+    "location": [
+      86.03,
+      18.3
+    ],
+    "duration": 3.668,
+    "related_events": [
+      "d8ef1430-937e-43d4-a03e-9230d0e4ab1a"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 5137,
+        "name": "Chris Taylor"
+      },
+      "length": 26.102,
+      "angle": 2.767,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        35.5,
+        51.97
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 4,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "db10820b-5dd2-4944-b3a1-2705bb5a9297",
+    "index": 52,
+    "period": 2,
+    "timestamp": "00:00:49.648",
+    "minute": 36,
+    "second": 35,
+    "type": {
+      "id": 91,
+      "name": "Shot"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 986,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 2,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 944,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 9290,
+      "name": "Mike Davis"
+    },
+    "position": {
+      "id": 18,
+      "name": "Right Wing"
+    },
+    "location": [
+      50.98,
+      86.11
+    ],
+    "duration": 2.441,
+    "related_events": [
+      "c56a8a1c-854e-455e-a506-bfc360b8c832"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 2389,
+        "name": "Nick Smith"
+      },
+      "length": 12.691,
+      "angle": 1.322,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        50.79,
+        24.84
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 78,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "085a0c50-2bf7-4766-8f43-35952d8f618f",
+    "index": 92,
+    "period": 1,
+    "timestamp": "00:00:37.701",
+    "minute": 71,
+    "second": 15,
+    "type": {
+      "id": 94,
+      "name": "Shot"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 978,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 18,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 994,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 1277,
+      "name": "Leo Williams"
+    },
+    "position": {
+      "id": 4,
+      "name": "Defensive Midfield"
+    },
+    "location": [
+      53.53,
+      92.31
+    ],
+    "duration": 2.908,
+    "related_events": [
+      "6ae72746-b4ed-4c44-b73d-c2a74c543a8f"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 8763,
+        "name": "Nick Williams"
+      },
+      "length": 39.981,
+      "angle": 2.335,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        80.46,
+        44.95
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 81,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "1dffb897-f190-4c8e-bf36-7df0f30db053",
+    "index": 64,
+    "period": 1,
+    "timestamp": "00:00:45.187",
+    "minute": 56,
+    "second": 24,
+    "type": {
+      "id": 1,
+      "name": "Pass"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 931,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 20,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 961,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 4912,
+      "name": "Leo Jones"
+    },
+    "position": {
+      "id": 10,
+      "name": "Left Back"
+    },
+    "location": [
+      56.82,
+      29.23
+    ],
+    "duration": 3.065,
+    "related_events": [
+      "1c01e31a-6bbc-43d6-84b0-95a49e9d177a"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 2547,
+        "name": "Alex Jones"
+      },
+      "length": 43.183,
+      "angle": 1.302,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        54.59,
+        97.74
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 96,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "bef7b3a1-6433-41a4-abc3-43ab148560a6",
+    "index": 28,
+    "period": 1,
+    "timestamp": "00:00:30.720",
+    "minute": 25,
+    "second": 38,
+    "type": {
+      "id": 72,
+      "name": "Pass"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 977,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 5,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 913,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 3437,
+      "name": "Sam Jones"
+    },
+    "position": {
+      "id": 19,
+      "name": "Center Forward"
+    },
+    "location": [
+      6.88,
+      31.79
+    ],
+    "duration": 2.025,
+    "related_events": [
+      "89c04ed0-aebb-482a-a1d8-a25293dc1521"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 9539,
+        "name": "Alex Miller"
+      },
+      "length": 21.092,
+      "angle": -0.518,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        83.2,
+        71.44
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 59,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "428af463-3a1b-47d2-ad75-d98ab52329cd",
+    "index": 7,
+    "period": 1,
+    "timestamp": "00:00:45.498",
+    "minute": 77,
+    "second": 22,
+    "type": {
+      "id": 13,
+      "name": "Shot"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 909,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 20,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 925,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 6755,
+      "name": "Leo Taylor"
+    },
+    "position": {
+      "id": 19,
+      "name": "Right Back"
+    },
+    "location": [
+      12.64,
+      65.47
+    ],
+    "duration": 3.895,
+    "related_events": [
+      "f2f4d0b8-a2e3-441e-a6b2-6ca0b1cfc12a"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 2358,
+        "name": "Nick Smith"
+      },
+      "length": 30.245,
+      "angle": 2.963,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        62.85,
+        75.01
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 87,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "81611632-b7d4-47ae-a0b8-4123b8007d3a",
+    "index": 21,
+    "period": 2,
+    "timestamp": "00:00:39.658",
+    "minute": 57,
+    "second": 20,
+    "type": {
+      "id": 37,
+      "name": "Shot"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 983,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 1,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 938,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 7453,
+      "name": "Chris Jones"
+    },
+    "position": {
+      "id": 28,
+      "name": "Center Forward"
+    },
+    "location": [
+      26.42,
+      42.62
+    ],
+    "duration": 2.994,
+    "related_events": [
+      "2a2ab4cb-b187-47f3-a7aa-bffcb254c006"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 4688,
+        "name": "Nick Brown"
+      },
+      "length": 18.081,
+      "angle": -1.967,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        38.95,
+        95.29
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 64,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "5f05ed49-e653-4f18-9bfc-a9f92e4d62ab",
+    "index": 74,
+    "period": 2,
+    "timestamp": "00:00:08.790",
+    "minute": 36,
+    "second": 0,
+    "type": {
+      "id": 70,
+      "name": "Dribble"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 960,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 12,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 993,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 7350,
+      "name": "Max Davis"
+    },
+    "position": {
+      "id": 15,
+      "name": "Right Back"
+    },
+    "location": [
+      15.27,
+      41.24
+    ],
+    "duration": 1.231,
+    "related_events": [
+      "02f4e0d7-07c1-4b53-9ae0-0c790e7adb38"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 7023,
+        "name": "Alex Johnson"
+      },
+      "length": 9.278,
+      "angle": -0.72,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        53.63,
+        79.2
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 1,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "77d1084a-d20c-4c2a-94e1-969bd338d293",
+    "index": 41,
+    "period": 2,
+    "timestamp": "00:00:54.606",
+    "minute": 4,
+    "second": 38,
+    "type": {
+      "id": 55,
+      "name": "Dribble"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 931,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 12,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 968,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 1543,
+      "name": "Sam Taylor"
+    },
+    "position": {
+      "id": 16,
+      "name": "Attacking Midfield"
+    },
+    "location": [
+      55.08,
+      52.17
+    ],
+    "duration": 2.696,
+    "related_events": [
+      "40436df0-a6fe-472c-98da-aa33e7c1e7ab"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 2825,
+        "name": "David Williams"
+      },
+      "length": 32.714,
+      "angle": 2.928,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        48.65,
+        18.41
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 70,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "658ee2ca-7e37-4b24-9bbc-45812d83feac",
+    "index": 92,
+    "period": 2,
+    "timestamp": "00:00:45.181",
+    "minute": 51,
+    "second": 16,
+    "type": {
+      "id": 92,
+      "name": "Challenge"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 918,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 20,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 957,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 2209,
+      "name": "Alex Jones"
+    },
+    "position": {
+      "id": 14,
+      "name": "Defensive Midfield"
+    },
+    "location": [
+      40.36,
+      28.56
+    ],
+    "duration": 1.74,
+    "related_events": [
+      "61db44d3-5205-4c99-ae38-435d0ee0f1fc"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 4691,
+        "name": "Chris Williams"
+      },
+      "length": 13.028,
+      "angle": -0.258,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        61.89,
+        99.28
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 85,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "6b885f9e-f33e-4797-aafe-1cfdd956c2a0",
+    "index": 54,
+    "period": 1,
+    "timestamp": "00:00:47.883",
+    "minute": 30,
+    "second": 23,
+    "type": {
+      "id": 95,
+      "name": "Dribble"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 904,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 6,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 999,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 8906,
+      "name": "Alex Anderson"
+    },
+    "position": {
+      "id": 20,
+      "name": "Center Back"
+    },
+    "location": [
+      13.39,
+      18.56
+    ],
+    "duration": 2.516,
+    "related_events": [
+      "144c2ec4-e37c-4dcb-bf01-ae8c86abb738"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 6571,
+        "name": "Mike Davis"
+      },
+      "length": 19.24,
+      "angle": -1.785,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        70.83,
+        86.31
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 96,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "5a745fd8-9137-447b-af61-d18dd28e53c9",
+    "index": 49,
+    "period": 2,
+    "timestamp": "00:00:24.521",
+    "minute": 36,
+    "second": 34,
+    "type": {
+      "id": 34,
+      "name": "Shot"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 965,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 13,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 913,
+      "name": "Team C"
+    },
+    "player": {
+      "id": 2051,
+      "name": "Sam Taylor"
+    },
+    "position": {
+      "id": 1,
+      "name": "Right Wing"
+    },
+    "location": [
+      28.76,
+      78.89
+    ],
+    "duration": 4.443,
+    "related_events": [
+      "e4b5560a-9c95-4e40-968d-4355bfdb8a34"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 9131,
+        "name": "Chris Brown"
+      },
+      "length": 8.689,
+      "angle": 1.95,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        49.39,
+        69.56
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 29,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "f9001e93-b114-4932-9595-e8f0c90d9db2",
+    "index": 21,
+    "period": 1,
+    "timestamp": "00:00:13.928",
+    "minute": 4,
+    "second": 1,
+    "type": {
+      "id": 10,
+      "name": "Challenge"
+    },
+    "possession": 2,
+    "possession_team": {
+      "id": 992,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 20,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 928,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 2078,
+      "name": "Nick Taylor"
+    },
+    "position": {
+      "id": 16,
+      "name": "Left Wing"
+    },
+    "location": [
+      2.23,
+      21.24
+    ],
+    "duration": 2.955,
+    "related_events": [
+      "d681f941-2899-4989-a1f4-40dafac49723"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 5414,
+        "name": "John Taylor"
+      },
+      "length": 25.182,
+      "angle": 1.31,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        82.33,
+        75.41
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 35,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "f983f5b7-555d-4925-ad58-390daff6ed1d",
+    "index": 90,
+    "period": 2,
+    "timestamp": "00:00:10.343",
+    "minute": 46,
+    "second": 19,
+    "type": {
+      "id": 40,
+      "name": "Dribble"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 978,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 2,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 989,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 6364,
+      "name": "Sam Taylor"
+    },
+    "position": {
+      "id": 9,
+      "name": "Goalkeeper"
+    },
+    "location": [
+      43.49,
+      35.53
+    ],
+    "duration": 2.588,
+    "related_events": [
+      "4e7b5d41-9378-4cbe-8103-171b3e62b70f"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 9213,
+        "name": "Alex Williams"
+      },
+      "length": 25.489,
+      "angle": 2.811,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        39.53,
+        25.18
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Left Foot"
+      },
+      "type": {
+        "id": 25,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "d9ce5c39-7186-4352-bbb7-59fd862d9d95",
+    "index": 89,
+    "period": 2,
+    "timestamp": "00:00:22.754",
+    "minute": 85,
+    "second": 52,
+    "type": {
+      "id": 80,
+      "name": "Challenge"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 900,
+      "name": "Team B"
+    },
+    "play_pattern": {
+      "id": 1,
+      "name": "From Kick Off"
+    },
+    "team": {
+      "id": 933,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 2632,
+      "name": "John Brown"
+    },
+    "position": {
+      "id": 21,
+      "name": "Center Back"
+    },
+    "location": [
+      8.99,
+      91.13
+    ],
+    "duration": 2.87,
+    "related_events": [
+      "4850986a-3305-4289-bdd2-b7b49806c58a"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 1438,
+        "name": "Nick Wilson"
+      },
+      "length": 8.571,
+      "angle": -2.365,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        60.98,
+        85.87
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 52,
+        "name": "Kick Off"
+      }
+    }
+  },
+  {
+    "id": "c435a2d8-4303-4313-9359-4b2822cd9270",
+    "index": 71,
+    "period": 2,
+    "timestamp": "00:00:11.316",
+    "minute": 5,
+    "second": 48,
+    "type": {
+      "id": 83,
+      "name": "Shot"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 958,
+      "name": "Team A"
+    },
+    "play_pattern": {
+      "id": 9,
+      "name": "Open Play"
+    },
+    "team": {
+      "id": 981,
+      "name": "Team B"
+    },
+    "player": {
+      "id": 3660,
+      "name": "Sam Williams"
+    },
+    "position": {
+      "id": 23,
+      "name": "Center Back"
+    },
+    "location": [
+      25.64,
+      53.85
+    ],
+    "duration": 1.821,
+    "related_events": [
+      "aca46167-8a17-47c9-ac43-7cdc3590a10b"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 6661,
+        "name": "Tom Miller"
+      },
+      "length": 12.324,
+      "angle": 2.399,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        72.48,
+        4.25
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 85,
+        "name": "Regular"
+      }
+    }
+  },
+  {
+    "id": "a264caed-a7dd-4073-b9eb-3b6aa10a7580",
+    "index": 5,
+    "period": 1,
+    "timestamp": "00:00:50.573",
+    "minute": 84,
+    "second": 26,
+    "type": {
+      "id": 11,
+      "name": "Pass"
+    },
+    "possession": 1,
+    "possession_team": {
+      "id": 909,
+      "name": "Team C"
+    },
+    "play_pattern": {
+      "id": 15,
+      "name": "Set Piece"
+    },
+    "team": {
+      "id": 975,
+      "name": "Team A"
+    },
+    "player": {
+      "id": 6700,
+      "name": "Leo Johnson"
+    },
+    "position": {
+      "id": 13,
+      "name": "Goalkeeper"
+    },
+    "location": [
+      7.45,
+      45.76
+    ],
+    "duration": 1.718,
+    "related_events": [
+      "beff3b3d-cc11-4361-9291-bdeb66211e8f"
+    ],
+    "pass": {
+      "recipient": {
+        "id": 5695,
+        "name": "John Wilson"
+      },
+      "length": 23.997,
+      "angle": -2.361,
+      "height": {
+        "id": 1,
+        "name": "Ground Pass"
+      },
+      "end_location": [
+        3.31,
+        73.2
+      ],
+      "body_part": {
+        "id": 40,
+        "name": "Right Foot"
+      },
+      "type": {
+        "id": 58,
+        "name": "Regular"
+      }
+    }
+  }
+]
