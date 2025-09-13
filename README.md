@@ -2,7 +2,7 @@
 Code to process Statsbomb 360 data to estimate the positions of off-camera players.
 
 ### Using the Model
-1. Data
+1. **Data**
 To use this model, it is necessary to have the following data:
 - `open-data/data/three-sixty`: This should contain the 360 data in files named "[match_id].json"
 - `open-data/data/three-sixty`: This should contain the event data in files named "[match_id].json"
@@ -14,10 +14,10 @@ Note that `open-data` should be a folder at the top level of the repository. Thi
 
 Note that this is a large repository and therefore this command may take a substantial amount of time to run
 
-2. Running the Code
+2. **Running the Code**
 To run the code, you must run all cells in the `Statsbomb_Processing.ipynb` notebook. This will create a folder called `Outputs` at the top level of the repository, which will contain processed 360 files, again named "[match_id].json".
 
-3. Using the Data
+3. **Using the Data**
 We believe that the model implemented in this repository gives good-quality outputs, and should be useful for, for example, examining team shape in different phases of play. However **all the outputs are estimates** and so should not be treated as exact measurements of player positions. In particular:
 
 - Off-camera movements are difficult to predict, and therefore this data will not be a reliable source for, for example, categorising runs that are not captured on screen
